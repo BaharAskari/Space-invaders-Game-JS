@@ -1,1 +1,3 @@
-# Space-invaders-Game-JS![Space-Invader-Game](https://user-images.githubusercontent.com/71929447/178161432-d5c18537-f85a-4669-a37f-cafe43236859.png)
+# Space-invaders-Game
+
+![Space-Invader-Game](https://user-images.githubusercontent.com/71929447/178161443-99ff8c6a-7e31-428e-b2b3-52e86deece10.png)
